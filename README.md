@@ -5,4 +5,4 @@ https://www.dropbox.com/s/utv6r1rdf9bm4kd/JincoMedABPM_windows_0_3_3_Beta.exe?dl
 This is a Java desktop software developed for I.E.M Co., Ltd.(Germany). 
 
 
-![Alt text](https://github.com/jinco-tech-team/IEM-BP-Desktop-Software/raw/master/examples/newcase.png)
+![Alt text](https://github.com/jinco-tech-team/IEM-BP-Desktop-Software/raw/master/pics/newcase.png)
