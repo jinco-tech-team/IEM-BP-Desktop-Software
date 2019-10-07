@@ -68,7 +68,7 @@ Diagnosis Time Adjustment
 ![Alt text](https://github.com/jinco-tech-team/IEM-BP-Desktop-Software/raw/master/pics/timeadjustment.png)
 
 IEM GmbH supporting hardware introduction(Mobil-O-Graph® NG):
-![Alt text](https://github.com/jinco-tech-team/IEM-BP-Desktop-Software/raw/master/pics/timeadjustment.iem)
+![Alt text](https://github.com/jinco-tech-team/IEM-BP-Desktop-Software/raw/master/pics/iem.png)
 Among 24hr ABPM devices, the Mobil-O-Graph® NG is clearly one of the classics worldwide and has become one of the most popular long-term blood pressure monitors for the medical practice or clinic. Its particularly gentle measurement method results in very high patient acceptance levels and greater patient compliance. Its quick and easy management within the daily practice routine combined with hypertension management software has made the Mobil-O-Graph® NG one of the most popular long-term blood pressure monitors. The extensive accessories available and its sturdiness due to "Made in Germany" quality make it popular among patients and doctors alike.
 
 
