@@ -1,8 +1,11 @@
+# Sample code:
+https://github.com/QiyuanMa/BP-MobDevice-management-software
+
 # To use the software, please download the exe installer, click the link below(The software is too big to upload)
 https://www.dropbox.com/s/utv6r1rdf9bm4kd/JincoMedABPM_windows_0_3_3_Beta.exe?dl=0
 
 # IEM-BP-Desktop-Software
-This is a Java blood pressure software, matching the hardwares of I.E.M GmbH Co., Ltd.(Germany). 
+This is a Java blood pressure software, matching the hardwares of I.E.M GmbH(Germany). 
 This software achieves remote telemedicine. doctors only need to wear the device for patients, and import data into the software after blood pressure measurement. The software would generate diagnosis report automaticly and generate conclusion and suggestion. The result and patients information would be uploaded to cloud database of big hospital, where doctors only need to check the result and confirm. Then this report would be valid and all diagnosis process finished.
 
 
